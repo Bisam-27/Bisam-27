@@ -87,11 +87,11 @@
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/923117133585" target="_blank">
+<a href="https://wa.me/923336585361" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="bisam-27.github.io" target="_blank">
+<a href="https://bisam-27.github.io" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" title="Portfolio" />
 </a>
 
