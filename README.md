@@ -257,15 +257,15 @@ This is proof of **mathematical ownership** — I understand what's happening in
 
 <div align="center">
   <!-- STREAK STATS - Alternative working domain -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Bisam-27&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
   
   
   <!-- ACTIVITY GRAPH - Alternative: Use Metrics or remove -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bisam-27&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%"/>
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemahmad3&theme=tokyonight" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bisam-27&theme=tokyonight" />
 </div>
 
 ---
@@ -293,28 +293,28 @@ This is proof of **mathematical ownership** — I understand what's happening in
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://www.linkedin.com/in/nadeem-ahmad3/">
+      <a href="https://www.linkedin.com/in/bisam-ahmad/">
         <img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br/>
         <b>LinkedIn</b><br/>
         <sub>Professional Network</sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="mailto:engrnadeem26@gmail.com">
+      <a href="mailto:ahmadbisam27@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55"/><br/>
         <b>Email</b><br/>
-        <sub>engrnadeem26@gmail.com</sub>
+        <sub>ahmadbisam27@gmail.com</sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://wa.me/923117133585">
+      <a href="https://wa.me/923336585361">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="55"/><br/>
         <b>WhatsApp</b><br/>
         <sub>Quick Chat</sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://engrnadeem-portfolio.vercel.app/">
+      <a href="https://Bisam-27.github.io/">
         <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="55"/><br/>
         <b>Portfolio</b><br/>
         <sub>See My Work</sub>
