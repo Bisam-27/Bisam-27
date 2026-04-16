@@ -17,7 +17,7 @@
 <a href="https://wa.me/923336585361"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://bisam-27.github.io/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NadeemAhmad3&style=flat-square&color=10B981&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Bisam-27&style=flat-square&color=10B981&label=Profile+Views)
 
 </div>
 
